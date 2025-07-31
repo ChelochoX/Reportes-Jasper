@@ -1,0 +1,6 @@
+*.jasper
+*.bak
+*.tmp
+*.log
+.idea/
+.vscode/
