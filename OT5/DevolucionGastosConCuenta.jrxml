@@ -235,6 +235,13 @@
 				<reportElement x="470" y="1" width="80" height="29" uuid="0af01c28-0f26-4dc9-be04-e52006d1bdfe"/>
 				<imageExpression><![CDATA["repo:/resources/logo_csj_compromiso.png"]]></imageExpression>
 			</image>
+			<staticText>
+				<reportElement x="114" y="0" width="266" height="30" uuid="c6cd43b6-6180-4cd0-b848-702e3484a840"/>
+				<textElement textAlignment="Center" verticalAlignment="Middle">
+					<font fontName="Brush Script MT" size="19"/>
+				</textElement>
+				<text><![CDATA[Esto es solo prueba para el versionado]]></text>
+			</staticText>
 		</band>
 	</title>
 	<columnHeader>
